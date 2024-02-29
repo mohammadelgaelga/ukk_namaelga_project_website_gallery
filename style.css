@@ -1,0 +1,9 @@
+body {
+    background-image: url('computer.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-size: center;
+    background-blend-mode: normal;
+    background-position: center;
+    background-repeat: no-repeat;
+}
